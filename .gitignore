@@ -1,1 +1,3 @@
 .vscode
+.pantry_env
+__pycache__
